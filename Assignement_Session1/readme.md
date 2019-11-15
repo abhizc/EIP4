@@ -1,4 +1,8 @@
 # Assignment Session 1
+## DNN accuracy score
+
+[0.046707527037291585, 0.9873]
+
 ## Defination
 
 **Convolution**
