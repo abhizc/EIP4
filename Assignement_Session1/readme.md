@@ -1,7 +1,7 @@
 # Assignment Session 1
 ## DNN accuracy score
 
-[0.046707527037291585, 0.9873]
+[0.028923396404099185, 0.9904]
 
 ## Defination
 
