@@ -37,6 +37,6 @@ Activation functions decides whether the information that the neuron is receivin
 
 **Receptive Field**
 
-Global receptive field- The pixels which have undergone convolution to get the particular channel as output is global receptive field of this particular channel
+Global receptive field - All the total input pixels from different channels which has undergone convolution to form one particular channel is the global receptive field of the this particular channel. 
 
-Local receptive field - The input image and the kernel is convolved to get channel, the pixels on the input which has undergone convolution to form this particular channel is the local receptive field of the channel. 
+Local receptive field - The input image pixels and the kernel is convolved to get channel, the input pixels which has undergone convolution to form this particular channel is the local receptive field of the channel. 
