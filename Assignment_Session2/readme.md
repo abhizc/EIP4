@@ -14,7 +14,7 @@ in Epoch 00018: LearningRateScheduler setting learning rate to 0.0004670715.
 Full training epoc details:
 
 
- <font size="1"> This is my text number1
+ <font size="0.5"> 
 Train on 60000 samples, validate on 10000 samples
 Epoch 1/20
 
