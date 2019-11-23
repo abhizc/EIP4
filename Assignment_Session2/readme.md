@@ -1,6 +1,6 @@
-# Assignment 2
+# Assignment 2 #
 
-## Assignment2_code9.ipynb
+## Assignment2_code9.ipynb ##
 
 **Total params:** 14,864
 
@@ -99,7 +99,7 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 
 
 
-## Using_GAP.ipynb
+## Using_GAP.ipynb ##
 
 Tried using Global average pooling 
 
