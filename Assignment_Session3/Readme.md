@@ -1,8 +1,8 @@
 # Assignment 3
 ### Base Model
-Total params: 1,172,410
-Final Validation accuracy for Base Model = "Accuracy on test data is: 82.35"
-Highest Validation achieved:
+Total params: 1,172,410   
+Final Validation accuracy for Base Model = "Accuracy on test data is: 82.35"   
+Highest Validation achieved:   
 Epoch 40/50
 390/390 [==============================] - 8s 19ms/step - loss: 0.3541 - acc: 0.8800 - val_loss: 0.5580 - **val_acc: 0.8294**
 
@@ -55,12 +55,12 @@ model.add(GlobalAveragePooling2D())
 model.add(Activation('softmax'))
 
 
-model.compile(loss='categorical_crossentropy', optimizer=Adam(lr=0.01), metrics=['accuracy'])
+model.compile(loss='categorical_crossentropy', optimizer=Adam(lr=0.01), metrics=['accuracy'])   
 
 
-**Total params: 113,307**
+**Total params: 113,307**   
 
-**Accuracy achieved: Accuracy on test data is: 84.03**
+**Accuracy achieved: Accuracy on test data is: 84.03**   
 
 ### Epoc Details
 
@@ -267,7 +267,7 @@ Epoch 00050: LearningRateScheduler setting learning rate to 0.0006012868.
 Model took 1698.04 seconds to train
 Accuracy on test data is: 84.03
 
-**Maximum Accuracy: 
+**Maximum Accuracy:    
 
 **Epoch 00048: LearningRateScheduler setting learning rate to 0.0006252736.
 781/781 [==============================] - 34s 43ms/step - loss: 0.3369 - acc: 0.8802 - val_loss: 0.4737 - val_acc: 0.8438**
